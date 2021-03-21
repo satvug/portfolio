@@ -10,7 +10,6 @@ email: gbjensen8@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The personal website of Gustav Brieghel Jensen
 footer_text: 
-icon: 🔥 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
