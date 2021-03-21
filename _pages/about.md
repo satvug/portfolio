@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there, I'm Gustav 👋  I'm a software developer based in Copenhagen, Denmark. My passion for programming started early in my life, where I would make modifications to my favorite video games. I later knew that I wanted pursue the path of becoming a software developer, which is why I decided to get a master's in Computer Science.
+Hi there, I'm Gustav 👋  I'm a software developer based in Copenhagen, Denmark. My passion for programming started early in my life, where I would make modifications to my favorite video games. I later knew that I wanted to pursue the path of becoming a software developer, which is why I decided to get a master's in Computer Science.
 
 <h2>technical skills</h2>
 I am experienced in the following technologies:
