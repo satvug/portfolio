@@ -19,14 +19,15 @@ Hi there, I'm Gustav 👋  I'm a software developer based in Copenhagen, Denmark
 <h2>technical skills</h2>
 I am experienced in the following technologies:
 <ul>
-  <li>C# .NET, Java, C, Python</li>
+  <li>C# .NET, Java, C, Python, Microsoft SQL</li>
   <li>Angular, TypeScript, JavaScript, HTML, CSS</li>
   <li>Version Control: Git, SVN</li>
   <li>Tools: Visual Studio, Webstorm, VSCode</li>
 </ul>
 
 <h2>hobbies</h2>
-In my spare time, when I'm not working on my hobby projects, I enjoy taking photos and keeping myself fit. I'm an avid traveler and love exploring new places. In 2020, my favorite destinations I visited were Barcelona and Lisbon.
+In my spare time, when I'm not working on my <a href="{{ '/projects/' | relative_url }}">hobby programming projects</a>
+, I enjoy taking photos and keeping myself fit. I'm also an avid traveler and love exploring new places. In 2020, my favorite destinations I visited were Barcelona and Lisbon.
 
 
 <!-- 
