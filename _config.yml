@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Gustav Brieghel Jensen | Software Developer # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Gustav
 middle_name: Brieghel
 last_name: Jensen
